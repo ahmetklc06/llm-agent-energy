@@ -1,0 +1,10 @@
+model,0
+gemma-2-2b,0.729
+llama-3-70b,0.867
+llama-3-8b,0.832
+llama-3.2-3b,0.705
+mistral-7b,0.842
+mistral-large,0.866
+qwen2.5-3b,0.696
+qwen2.5-72b,0.83
+qwen2.5-7b,0.796

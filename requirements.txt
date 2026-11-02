@@ -1,0 +1,14 @@
+# versions used for the reported runs (see results/main_run/env_info.json)
+torch==2.11.0
+transformers==5.16.1
+accelerate==1.14.0
+bitsandbytes==0.50.2
+codecarbon==3.3.1
+datasets==4.8.5
+evaluate==0.4.6
+rouge_score
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
