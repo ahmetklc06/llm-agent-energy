@@ -16,6 +16,7 @@ notebooks/
                                    50 samples x 3 repeats (GPU)
   03_reanalysis.ipynb              re-scoring, paired tests, token-normalized energy, calibration metrics (CPU)
 scripts/
+  04_judge_context_sensitivity.ipynb   judge shown 1,500 vs 3,000 characters, summarization (GPU)
   make_figures.py                  Figures 1-5 and Tables 1-4 from the result CSVs
 results/
   main_run/
