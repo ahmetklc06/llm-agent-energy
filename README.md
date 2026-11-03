@@ -27,6 +27,9 @@ results/
     env_info.json                      library and CUDA versions
   component_run/
     components.csv                     one row per model call (gen1, judge1, gen2, ...)
+    judge_context_run/
+      judge_context.csv                  one row per model, sample and judge-context condition
+      judge_context_summary.csv          per-model comparison (Section 4.7)
   analysis_A/                          outputs of notebook 03 (tables used in the paper)
 figures/                               publication figures (PNG 300 dpi + PDF)
 ```
